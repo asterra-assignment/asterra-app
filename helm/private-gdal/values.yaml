@@ -1,0 +1,12 @@
+app:
+  name: private-gdal
+
+replicaCount: 1
+
+image:
+  repository: "REPLACE_ME_ECR_REPO"
+  tag: "0.1.2"
+  pullPolicy: IfNotPresent
+
+service:
+  port: 5000

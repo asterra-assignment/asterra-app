@@ -1,0 +1,6 @@
+apiVersion: v2
+name: private-gdal
+description: A Helm chart for private GDAL microservice
+type: application
+version: 0.1.2
+appVersion: "0.1.2"
