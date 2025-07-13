@@ -1,6 +1,6 @@
 image:
   repository: "REPLACE_ME_ECR_REPO"
-  tag: "0.1.21"
+  tag: "0.1.22"
   pullPolicy: IfNotPresent
 
 serviceAccount:

@@ -2,5 +2,5 @@ apiVersion: v2
 name: geojson-loader
 description: A Kubernetes app to load GeoJSON files from S3 to RDS
 type: application
-version: 0.1.21
-appVersion: "0.1.21"
+version: 0.1.22
+appVersion: "0.1.22"
